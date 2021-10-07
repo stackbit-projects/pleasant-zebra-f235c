@@ -11,7 +11,7 @@ sections:
         url: 'https://targetedwebtraffic.business.site/'
         style: primary
       - label: Contact Us
-        url: /contact
+        url: 'https://www.seo25.com/contact-us/'
         style: secondary
     align: left
     image: images/hero.svg
