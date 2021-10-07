@@ -2,7 +2,10 @@
 title: lorem-ipsum
 seo:
   title: Real Targeted Traffic - Targeted Website Traffic
-  description: ''
+  description: >-
+    Learn more how to get real targeted traffic to your website and help you get
+    more leads and sale to your site. Targeted web traffic packages help to
+    grow.
   robots: []
   extra: []
 layout: page
