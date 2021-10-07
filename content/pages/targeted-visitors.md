@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: Real Targeted Visitiors
 seo:
   title: Real Targeted Traffic - Targeted Website Traffic
   description: >-
