@@ -111,13 +111,6 @@ category of jobs?
 
 ## Benefits of Internet Business
 
-Digital businesses have many features that you need to know
-to get started. There
-are also many benefits to engaging in digital business. If you want to know what the
-benefits of Internet business are, here are some of them. Introduce yourself
-on social media to get to know you and [get started](https://www.signupgenius.com/go/10c0f49a4a822a5f8cf8-howtoget).
-
-
+Digital businesses have many features that you need to know to get started. There are also many benefits to engaging in digital business. If you want to know what the benefits of Internet business are, here are some of them. Introduce yourself on social media to get to know you and [get started](https://www.signupgenius.com/go/10c0f49a4a822a5f8cf8-howtoget).
 
 \###
-
