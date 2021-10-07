@@ -65,13 +65,6 @@
                 "url": "https://www.linkedin.com/company/buy-web-traffic/",
                 "style": "link",
                 "new_window": true
-            },
-            {
-                "label": "lorem-ipsum",
-                "url": "#",
-                "style": "link",
-                "new_window": false,
-                "no_follow": false
             }
         ],
         "content": "<p>&copy; Stackbit. All rights reserved. This Jamstack site was created with <a href=\"https://www.targetedwebtraffic.com/?ref=134\">TargetedWebTraffic</a>. Create yours and <a href=\"https://www.targetedwebtraffic.com/?p=56 \">order now</a></p>"
