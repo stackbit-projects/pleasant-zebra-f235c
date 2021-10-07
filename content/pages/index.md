@@ -83,7 +83,7 @@ sections:
     background_color: gray
 seo:
   title: Modern JavaScript date utility library
-  description: The preview of the Starter theme
+  description: 'Modern JavaScript date utility library '
   extra:
     - name: 'og:type'
       value: website
