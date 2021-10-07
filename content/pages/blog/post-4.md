@@ -77,21 +77,11 @@ technology and its entry into people's lives, a great change took place in
 human habits. One
 of these changes was the way we bought and made a living.
 
-It is interesting to know that with the introduction of
-smartphones into human life, new needs were created for him and on the other
-hand, new ways were created to meet the needs. These new ways were far
-simpler than the old ones. It should be noted that this process of progress
-is accelerating every day and human habits are changing more.
+It is interesting to know that with the introduction of smartphones into human life, new needs were created for him and on the other
+hand, new ways were created to meet the needs. These new ways were far simpler than the old ones. It should be noted that this process of progress is accelerating every day and human habits are changing more.
 
-According to the explanations given, there will be no need
-for physical jobs in the future. Experts have also stated that by of the jobs that exist today will be lost. This shows that businesses
-are moving very fast towards digitalization. So, we must deal with the fact that the bright
-future of most businesses is shaping up on the Internet.
-
-This fact, whether bitter or sweet, is inevitable, and these
-days the Internet and its tools will become the main source of income for most
-people. That's
-why having an online job is essential to staying competitive. In the following, we will
+This fact, whether bitter or sweet, is inevitable, and these days the Internet and its tools will become the main source of income for most
+people. That's why having an online job is essential to staying competitive. In the following, we will
 tell you what other reasons are important for starting an internet business?
 
 ## Cost-effective start-up internet business
