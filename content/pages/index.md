@@ -28,10 +28,13 @@ sections:
     title: Features
     features:
       - title: Feature 1
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+        content: >+
+          bundles both ES6, CommonJS, and AMD modules (even combined). In
+          addition to code-splitting, webpack can create a single bundle or
+          multiple chunks that are asynchronously loaded at runtime (to reduce
+          initial loading time). Dependencies are resolved during compilation
+          reducing the runtime size.
+
         align: left
         image: images/feature.svg
         image_alt: Feature 1 placeholder image
