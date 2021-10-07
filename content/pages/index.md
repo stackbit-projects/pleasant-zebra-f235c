@@ -54,10 +54,12 @@ sections:
             url: /features
             style: secondary
       - title: Feature 3
-        content: >-
-          Id nibh tortor id aliquet lectus proin. Amet venenatis urna cursus
-          eget nunc. Lacus sed turpis tincidunt id aliquet risus feugiat in
-          ante.
+        content: >+
+          The main purpose is to bundle JavaScript files for usage in a browser,
+          yet it is also capable of transforming, bundling, or packaging just
+          about any deployment target running javascript (node, electron, atom,
+          web, web worker).
+
         align: left
         image: images/feature.svg
         image_alt: Feature 3 placeholder image
