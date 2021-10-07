@@ -64,7 +64,7 @@ sections:
         image_position: right
         actions:
           - label: Learn More
-            url: /features
+            url: 'https://www.targetedwebtraffic.com/blog/'
             style: secondary
   - type: blog_feed_section
     title: What's New
