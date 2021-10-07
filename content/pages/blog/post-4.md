@@ -1,5 +1,5 @@
 ---
-title: Vos Autem Cum Perspicuis Dubia Debeatis Illustrare
+title: What is Drupal CMS and why should we use it?
 date: '2020-05-30'
 author: content/data/team/dianne-ameter.yaml
 categories:
