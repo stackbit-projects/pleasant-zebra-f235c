@@ -1,5 +1,5 @@
 ---
-title: Amet Nulla Facilisi Morbi Tempus
+title: Ability to search and filter products
 date: '2020-06-02'
 author: content/data/team/gordon-norman.yaml
 categories:
