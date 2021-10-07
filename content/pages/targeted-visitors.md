@@ -1,7 +1,7 @@
 ---
 title: lorem-ipsum
 seo:
-  title: ''
+  title: Real Targeted Traffic - Targeted Website Traffic
   description: ''
   robots: []
   extra: []
