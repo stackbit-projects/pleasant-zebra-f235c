@@ -14,7 +14,7 @@ sections:
         url: 'https://www.seo25.com/contact-us/'
         style: secondary
     align: left
-    image: images/hero.svg
+    image: /images/holostic_img_cls9-min.png
     image_alt: Hero placeholder image
     image_position: right
     has_background: true
