@@ -8,7 +8,7 @@ sections:
       quis lorem malesuada luctus.
     actions:
       - label: Learn More
-        url: /features
+        url: 'https://targetedwebtraffic.business.site/'
         style: primary
       - label: Contact Us
         url: /contact
