@@ -54,8 +54,7 @@ sales. Stay with us.
 One way to increase online sales is to improve your SEO and
 site optimization. Millions of searches are done daily by users in Google
 search engine. Putting your website at the top of Google results can have
-a huge impact on [increasing
-the number of users visiting the site](https://targetedwebtraffic.business.site/) and thus attracting new customers to
+a huge impact on [increasing the number of users visiting the site](https://targetedwebtraffic.business.site/) and thus attracting new customers to
 your business. The design of your store site should be such that it is
 appropriate and optimal for search engines like Google. Properly and
 optimally designed site can establish your SEO site and then you can improve
