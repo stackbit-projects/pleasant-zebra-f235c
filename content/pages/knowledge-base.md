@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: How to Improve the Association Membership Sign-Up Process
 seo:
   title: ''
   description: ''
