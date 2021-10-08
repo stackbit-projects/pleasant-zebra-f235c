@@ -69,5 +69,6 @@
         ],
         "content": "<p>&copy; Stackbit. All rights reserved. This Jamstack site was created with <a href=\"https://www.targetedwebtraffic.com/?ref=134\">TargetedWebTraffic</a>. Create yours and <a href=\"https://www.targetedwebtraffic.com/?p=56 \">order now</a></p>"
     },
-    "domain": "https://pleasant-zebra-f235c.netlify.app"
+    "domain": "https://pleasant-zebra-f235c.netlify.app",
+    "favicon": "/images/holostic_img_cls9-min-08866181.png"
 }
