@@ -45,8 +45,6 @@ You need to ask yourself this question first, what are the benefits of registeri
 
 You can guarantee your users according to your profession and job. For example, telling your users that they can unsubscribe at any time, or that your email address and other details are safe. Online shopping sites can tell their audience that they can get paid if they are dissatisfied and free training, [sign-up incentives](https://www.signupgenius.com/go/10c0f49a4a822a5f8cf8-howtoget) are a great way to delight your new members
 
-
-
 **Create an incentive to register on the site**
 
 You can create an incentive to persuade users to sign up for your site. For example, offer a free e-book, free telephone consultation, or any other free service, or offer free online shopping or any other service to users who have registered on your site, depending on your profession. Give. You can offer a special offer for those who have registered on your site.
@@ -103,3 +101,5 @@ As mentioned, the presence of users is very important for any website. Therefore
 Of course, encouraging users by providing incentives can also be a good option for attracting members. In addition to the registration process, another option that is very important in [online stores](https://www.seo25.com/product-category/website-traffic-packages/) is the purchase process.
 
 Therefore, it is necessary to simplify and optimize the purchase and membership process by using the solutions mentioned in this article.
+
+![](https://www.targetedwebtraffic.com/wp-content/uploads/2020/09/Retargeting-vs-Remarketing-More-sales-with-re-marketing-scaled-e1607280618453.jpg)
