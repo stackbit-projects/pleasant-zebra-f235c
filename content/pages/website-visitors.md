@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: Website Traffic Blog
 seo:
   title: ''
   description: ''
